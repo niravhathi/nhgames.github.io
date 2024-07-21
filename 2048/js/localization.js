@@ -9,7 +9,7 @@ String.toLocaleString({
     "%game-explanation":
       '<strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>',
     "%disclaimer":
-      'is This a spin-off of the official version of <a href="https://doodlecricket.github.io/2048-cricket">2048</a> created by Gabriele Cirulli.',
+      'is This a spin-off of the official version of <a href="https://hngames.online/2048-cricket">2048</a> created by Gabriele Cirulli.',
     "%credits": "No images :)",
     "%tweet1": 'I scored "',
     "%tweet2": " at 2048 #2048game",
@@ -52,7 +52,7 @@ String.toLocaleString({
     "%game-explanation":
       '<strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>',
     "%disclaimer":
-      'is This a spin-off of the official version of <a href="https://doodlecricket.github.io/2048-cricket">2048</a> created by Gabriele Cirulli.',
+      'is This a spin-off of the official version of <a href="https://hngames.online/2048-cricket">2048</a> created by Gabriele Cirulli.',
     "%credits": "No images :)",
     "%tweet1": 'I scored "',
     "%tweet2": " at 2048 #2048game",
